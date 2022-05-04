@@ -7,7 +7,7 @@ def isPalindrome(str):
     return True
  
 # main function
-s = "malayalam"
+s = "vedant"
 ans = isPalindrome(s)
  
 if (ans):
